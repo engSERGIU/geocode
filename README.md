@@ -8,6 +8,5 @@ Running:
 ```sh
 $ python3 -m pip install bottle
 $ python3 -m pip install geoclue
-$ cd src
 $ python3 main.py
 ```
